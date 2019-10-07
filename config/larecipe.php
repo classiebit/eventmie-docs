@@ -52,7 +52,7 @@ return [
 
     'settings'       => [
         'auth'       => false,
-        'ga_id'      => env('APP_ENV') == 'staging' ? 'UA-148180654-1' : '',
+        'ga_id'      => env('APP_ENV') == 'production' ? 'UA-148180654-1' : '',
     ],
 
     /*
@@ -136,13 +136,13 @@ return [
 
     'seo'                 => [
         'author'          => 'classiebit',
-        'description'     => 'Collect honest suggestions and feedbacks from your friends, employees, or customers in a creative and professional manner.',
+        'description'     => 'Launch a dedicated platform for Event planning on your domain.',
         'og'              => [
             'title'       => 'Eventmie Lite - Docs',
             'type'        => 'article',
             'url'         => 'https://eventmie-docs.classiebit.com',
             'image'       => 'https://eventmie-docs.classiebit.com/logo.png',
-            'description' => 'Collect honest suggestions and feedbacks from your friends, employees, or customers in a creative and professional manner.',
+            'description' => 'Launch a dedicated platform for Event planning on your domain.',
         ]
     ],
 
