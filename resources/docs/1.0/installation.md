@@ -29,7 +29,18 @@ Eventmie can be installed via composer. Easy... 🍻
     composer require classiebit/eventmie
     ```
 
-2. Install Eventmie without dummy data simply run
+2. If installing Eventmie on an existing Laravel application and you already have Auth system installed then **skip this step**
+
+    if installing Eventmie on **Fresh Laravel application** then first run 
+
+    ```php
+    php artisan make:auth
+
+    php artisan migrate
+    ```
+
+
+3. Install Eventmie without dummy data simply run
 
     ```php
     php artisan eventmie:install
