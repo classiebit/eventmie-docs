@@ -4,7 +4,7 @@ Create events, sell tickets and manage everything on your domain. In Eventmie Li
 
 ---
 
-![Event Setup](https://eventmie-docs.classiebit.com/images/create-event-1.jpg "Event Setup")
+![Event Setup](https://eventmie-docs.classiebit.com/images/create-event.jpg "Event Setup")
 
 ---
 

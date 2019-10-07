@@ -4,7 +4,7 @@ Eventmie supports multiple languages, including Russian, Portuguese, Chinese, Ja
 
 ---
 
-![Multi-language](https://eventmie-docs.classiebit.com/images/multi-langauge-1.jpg "Multi-language")
+![Multi-language](https://eventmie-docs.classiebit.com/images/multi-langauge.jpg "Multi-language")
 
 ---
 

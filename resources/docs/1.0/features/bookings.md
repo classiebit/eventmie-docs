@@ -26,7 +26,7 @@ To make a booking for an event is super simple. It's just a matter of two clicks
 
 ---
 
-![Make Booking - Admin](https://eventmie-docs.classiebit.com/images/make-booking-admin-1.jpg "Make Booking - Admin")
+![Make Booking - Admin](https://eventmie-docs.classiebit.com/images/make-booking-admin.jpg "Make Booking - Admin")
 
 ---
 
@@ -39,7 +39,7 @@ To make a booking for an event is super simple. It's just a matter of two clicks
 
 ---
 
-![Make Booking - Customer](https://eventmie-docs.classiebit.com/images/make-booking-customer-1.jpg "Make Booking - Customer")
+![Make Booking - Customer](https://eventmie-docs.classiebit.com/images/make-booking-customer.jpg "Make Booking - Customer")
 
 ---
 
