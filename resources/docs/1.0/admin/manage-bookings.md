@@ -14,7 +14,7 @@ All the bookings can be managed from this page.
 
 ### Create Booking
 
-New booking for a customer can be created from the front-end only. 
+New bookings for a customer can be created from the front-end only. 
 
 
 ### Edit Booking

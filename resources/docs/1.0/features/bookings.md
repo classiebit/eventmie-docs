@@ -1,13 +1,13 @@
 # Bookings
 
-Booking an event is super simple. It's just a matter of two clicks. Hmmm.. one, two 😉
+To make a booking for an event is super simple. It's just a matter of two clicks. Hmmm.. one, two 🤞
 
 <br>
 
-**Admin** and **Customer**, both of them can book an event from the front-end in similar ways.
+**Admin** and **Customer** can book an event from the front-end in similar ways.
 
-1. **Admin** - Make booking for a customer.
-2. **Customer** - Make booking for their own.
+1. **Admin** - Make a booking for a customer.
+2. **Customer** - Make a booking for their own.
 
 
 - [Make booking](#Make-Booking)

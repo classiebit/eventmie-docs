@@ -1,13 +1,13 @@
 # Events
 
-Create events, sell tickets and manage everything on your own domain. In Eventmie Lite, you can create Events and sell tickets for free.
+Create events, sell tickets and manage everything on your domain. In Eventmie Lite, you can create Events and sell tickets for free.
 
 <br>
 
 There are two types of user - **Admin** & **Customer**
 
-1. **Admin** - Access admin panel, create events, bookings and manage everything.
-2. **Customer** - Only book events and manage their bookings from the front-end. Customer have no access to admin panel.
+1. **Admin** - Access admin panel, create events, make bookings and manage everything.
+2. **Customer** - Book events and manage their bookings from the front-end. The customer has no access to the admin panel.
 
 
 - [Create Event](#Create-Event)
@@ -53,7 +53,7 @@ There are two types of user - **Admin** & **Customer**
 <a name="Details"></a>
 ## Details
 
-First step is mandatory to proceed to next step.
+The first step is mandatory to proceed to the next step.
 
 <br>
 **Form Fields**
@@ -111,7 +111,7 @@ Upload event poster and images. Please follow the mentioned dimensions. While yo
 <a name="SEO"></a>
 ## SEO
 
-Write meta title, tags and description. These tags will be specific for each event. 
+Write meta titles, tags, and descriptions. These tags will be specific for each event. 
 
 **Fields**
 
@@ -123,4 +123,4 @@ Write meta title, tags and description. These tags will be specific for each eve
 <a name="Publish-Event"></a>
 ## Publish Event
 
-`Publish` Event after completing all the steps. Event can be switch to `Publish` or `Un-publish`.
+`Publish` Event after completing all the steps. An event can be switch to `Publish` or `Un-publish`.

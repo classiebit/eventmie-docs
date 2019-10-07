@@ -12,7 +12,7 @@ Manage all the Events from `Admin Panel`
 <a name="Events"></a>
 ## Events
 
-All the Events can be managed from from this page.
+All the Events can be managed from this page.
 
 
 <a name="Categories"></a>

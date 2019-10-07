@@ -1,6 +1,6 @@
 # Settings
 
-Manage Eventmie's global settings here.
+Manage Eventmie global settings here.
 
 ---
 
@@ -37,7 +37,7 @@ Website SEO
 |Setting Name|Type|Description|
 |:-|:-|
 |Meta Title|`alpha`|short title explaining your business|
-|Meta Keywords|`alpha`|comma seperated unique keywords that describes your website in-short|
+|Meta Keywords|`alpha`|comma separated unique keywords that describe your website in-short|
 |Meta Description|`alpha`|short description of your website|
 
 
@@ -113,7 +113,7 @@ Mail sending configurations
 |Mail Port|`string`|Mail Port e.g 1025|
 |Mail Username|`string`|Mail Username e.g testuser|
 |Mail Password|`string`|Mail Password e.g testpwd|
-|Mail Encryption|`list`|disable, ssl, tls|
+|Mail Encryption|`list`|disable, SSL, TLS|
 |Mail Sender Email|`email`|Sender email e.g eventmie@classiebit.com|
 |Mail Sender Name|`string`|Sender Name e.g Eventmie|
 
@@ -122,7 +122,7 @@ Mail sending configurations
 <a name="Regional"></a>
 ## Regional
 
-Region specific configurations.
+Region-specific configurations.
 
 
 |Setting Name|Type|Description|
@@ -133,7 +133,7 @@ Region specific configurations.
 
 ---
 
-#### Setting Default Timezone effects Events Date & Time that are storing in the database, they're converted accordingly.
+#### Setting Default Timezone affects Events Date & Time that are storing in the database, they're converted accordingly.
 
 - Suppose the default timezone is `America/Los_Angeles` and a customer visiting the site from `India/Kolkata`, then the customer will see the date & time according to `India/Kolkata` timezone
 
@@ -141,7 +141,7 @@ Region specific configurations.
 
 ---
 
-> {success} Eventmie detects visitor's timezone and do all the conversions behind the scenes.
+> {success} Eventmie detects visitor's timezone and does all the conversions behind the scenes.
 
 ---
 

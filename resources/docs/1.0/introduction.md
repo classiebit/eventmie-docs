@@ -1,10 +1,10 @@
 # Introduction
 
-Welcome to Eventmie Lite documentation for initial stable version 1.0
+Welcome to Eventmie Lite documentation.
 
 ---
 
-![Eventmie - Anonymous feedback script remastered](https://eventmie-docs.classiebit.com/images/eventmie-docs-banner-1.jpg "Eventmie - Anonymous feedback script remastered")
+![Eventmie - Event planning reimagined with Laravel](https://eventmie-docs.classiebit.com/images/eventmie-docs-banner-1.jpg "Event planning reimagined with Laravel")
 
 
 > {info.fa-youtube} Here's a complete video tutorial guide for getting started quickly **[Eventmie Academy](https://classiebit.com/academy/eventmie/getting-started)** ✌️
@@ -19,11 +19,11 @@ Welcome to Eventmie Lite documentation for initial stable version 1.0
 <a name="What-is-Eventmie"></a>
 ## What is Eventmie
 
-Eventmie is an planning and management Laravel package. Using Eventmie, you can launch your dedicated platform for Event planning on your domain. Streamline the event planning process through automation. Eventmie is secure, scalable, production ready.
+Eventmie is an Event planning and management Laravel package. With Eventmie, launch a dedicated platform for Event planning on your domain. Streamline the event planning process through automation. Eventmie is secure, scalable, production-ready.
 
 <br>
 
-Just **install** it into a brand new Laravel application or an existing one and start selling your events for free.
+Just **install** it into a brand new Laravel application or an existing one and start selling events for free.
 
 ---
 

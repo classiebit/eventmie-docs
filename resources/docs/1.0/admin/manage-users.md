@@ -3,8 +3,8 @@
 All the site users can be managed from this page. There are two prefined user groups -
 
 <br>
-1. Admin - only user group that is allowed to visit admin panel
-2. Customer - can book events and manage their bookings from the front-end.
+1. Admin - only user group that is allowed to visit the admin panel
+2. Customers - can book events and manage their bookings from the front-end.
 
 ---
 

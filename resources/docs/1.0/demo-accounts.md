@@ -9,6 +9,7 @@ Demo accounts have got `demo data` to easily showcase all the features of Eventm
     - Deleting or Disabling user account.
     - Changing User email and password.
     - Deleting categories and events.
+    - Modifying admin panel settings.
 
 
 ---

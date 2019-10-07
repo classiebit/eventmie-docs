@@ -4,10 +4,6 @@ Eventmie supports multiple languages, including Russian, Portuguese, Chinese, Ja
 
 ---
 
-![multi-language](https://anofie-docs.classiebit.com/images/multi-language.jpg "multi-language")
-
----
-
 > {success} Eventmie `Auto-detects` **RTL** language and changes the website direction to **RTL**
 
 ---
