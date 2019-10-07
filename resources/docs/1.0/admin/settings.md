@@ -4,6 +4,10 @@ Manage Eventmie global settings here.
 
 ---
 
+![Admin Panel - Settings](https://eventmie-docs.classiebit.com/images/settings-1.jpg "Admin Panel - Settings")
+
+---
+
 - [Site](#Site)
 - [SEO](#SEO)
 - [Social](#Social)

@@ -2,6 +2,12 @@
 
 Create events, sell tickets and manage everything on your domain. In Eventmie Lite, you can create Events and sell tickets for free.
 
+---
+
+![Event Setup](https://eventmie-docs.classiebit.com/images/create-event-1.jpg "Event Setup")
+
+---
+
 <br>
 
 There are two types of user - **Admin** & **Customer**

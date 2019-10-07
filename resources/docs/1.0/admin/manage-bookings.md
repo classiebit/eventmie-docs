@@ -4,6 +4,10 @@ Manage all the Event's Bookings from `Admin Panel`
 
 ---
 
+![Admin Panel - Manage Bookings](https://eventmie-docs.classiebit.com/images/manage-bookings-1.jpg "Admin Panel - Manage Bookings")
+
+---
+
 - [Bookings](#Bookings)
 
 
