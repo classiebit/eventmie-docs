@@ -10,6 +10,7 @@ Eventmie can be installed via composer. Easy... 🍻
 
 - [Prerequisites](#Prerequisites)
 - [Install](#Install)
+- [Configurations](#Configurations)
 
 
 <a name="Prerequisites"></a>
@@ -23,15 +24,9 @@ Eventmie can be installed via composer. Easy... 🍻
 <a name="Install"></a>
 ## Install
 
-1. Install via Composer
+1. If installing Eventmie on an existing Laravel application and you already have Auth system then **skip this step**
 
-    ```php
-    composer require classiebit/eventmie
-    ```
-
-2. If installing Eventmie on an existing Laravel application and you already have Auth system installed then **skip this step**
-
-    if installing Eventmie on **Fresh Laravel application** then first run 
+    if installing Eventmie on **Fresh Laravel application** then run 
 
     ```php
     php artisan make:auth
@@ -39,15 +34,46 @@ Eventmie can be installed via composer. Easy... 🍻
     php artisan migrate
     ```
 
+2. Install Eventmie via Composer
 
-3. Install Eventmie without dummy data simply run
+    ```php
+    composer require classiebit/eventmie
+    ```
+
+3. Run Eventmie install command
 
     ```php
     php artisan eventmie:install
     ```
 
-    or with dummy data
+
+<a name="Configurations"></a>
+## Configurations
+
+After installation, you'll see the Eventmie config `config/eventmie` file. You can make the following changes-
+
+<br>
+
+1. Route config - whether to run Eventmie as a base site e.g `example.com` or on a specific url e.g `example.com/myevents`
 
     ```php
-    php artisan eventmie:install --with-dummy
+    'route' => [
+        'prefix'            => null, // for front-end
+        'admin_prefix'      => 'admin', // for admin panel
+    ],
+    ```
+
+
+
+2. RTL Languages - Eventmie detects RTL language from this list and changes site direction accordingly. You can add any other RTL language to the list.
+
+    ```php
+    'rtl_langs'        => [
+        'ar', // arabic
+        'fa', // persian
+        'he', // hebrew
+        'ms', // malay
+        'ur', // urdu
+        'ml' // malayalam
+    ],
     ```
