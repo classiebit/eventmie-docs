@@ -3,10 +3,13 @@
     "type": "project",
     "description": "Eventmie Lite Documentation",
     "keywords": [
-        "framework",
+        "eventmie-lite",
+        "docs",
+        "events",
+        "event-management",
+        "event-planning",
         "laravel",
-        "eventmie",
-        "docs"
+        "laravel-package"
     ],
     "license": "MIT",
     "require": {
