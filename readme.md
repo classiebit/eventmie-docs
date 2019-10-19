@@ -51,7 +51,7 @@ Eventmie can be installed via composer. Easy... 🍻
 
 ## Prerequisites
 
-* Laravel version 5.5 / 5.6 / 5.7 / 5.8
+* Laravel version 5.5 / 5.6 / 5.7 / 5.8 / 6.x
 * Make sure to install Eventmie package on a **Fresh** or **Existing** Laravel application. 
 * We also assume that you've setup the database.
 
@@ -62,8 +62,22 @@ Eventmie can be installed via composer. Easy... 🍻
 
     if installing Eventmie on **Fresh Laravel application** then run 
 
+    **For Laravel 5.5 to 5.8**
+
     ```php
     php artisan make:auth
+
+    php artisan migrate
+    ```
+
+    **For Laravel 6.x**
+
+    ```php
+    composer require laravel/ui --dev
+
+    php artisan ui vue --auth
+
+    npm install && npm run dev
 
     php artisan migrate
     ```
