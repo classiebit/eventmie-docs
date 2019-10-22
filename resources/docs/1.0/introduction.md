@@ -30,7 +30,7 @@ Just **install** it into a brand new Laravel application or an existing one and 
 <a name="Lite-version"></a>
 ## Lite Version
 
->{primary} This is Eventmi Lite version documentation
+>{primary} This is Eventmie Lite version documentation
 
 **Eventmie Lite Version** is open-source, free to use. Lite version has got limited features & functionality.
 

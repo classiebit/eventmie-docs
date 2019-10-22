@@ -21,7 +21,7 @@ Eventmie supports multiple languages, including Russian, Portuguese, Chinese, Ja
 
 When you run Eventmie install command, it publishes all the languages to your application `resources/lang/vendor/eventmie` directory. So that if you wanna change something in existing language, you can do so. 
 
-1. And, to add a new language, simply copy the `en` directory and paste it as `<your_language_name_shortcode>`. Then translate all the file `em.php` inside the new language folder.
+1. And, to add a new language, simply copy the `en` directory and paste it as `<your_language_name_shortcode>`. Then translate all the variable's **VALUES** inside the new language folder `em.php` file.
 
     ---
 
@@ -44,7 +44,7 @@ When you run Eventmie install command, it publishes all the languages to your ap
     ```
 
 
-2. Then open `resources/lang/vendor/en/em.php` and add your language name
+2. Then open `resources/lang/vendor/eventmie/en/em.php` and add your language name
 
     ```php
         "en"        => 'English',
@@ -71,4 +71,4 @@ When you run Eventmie install command, it publishes all the languages to your ap
 <a name="Delete-Language"></a>
 ## Delete Language
 
-Simple delete the language folder that you wanna remove from `resources/lang/vendor/` and it'll be removed from the language dropdown automatically.
+Simple delete the language folder that you wanna remove from `resources/lang/vendor/eventmie/` and it'll be removed from the language dropdown automatically.
