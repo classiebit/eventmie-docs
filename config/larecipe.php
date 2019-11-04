@@ -17,6 +17,7 @@ return [
         'route'   => '/docs',
         'path'    => '/resources/docs',
         'landing' => 'introduction',
+        'middleware' => ['web'],
     ],
 
     /*
@@ -70,7 +71,7 @@ return [
 
     'cache'       => [
         'enabled' => false,
-        'period'  => 0 // 7 days -- value in minutes
+        'period'  => 5
     ],
 
     /*
@@ -114,11 +115,11 @@ return [
 
     'ui'                 => [
         'code_theme'     => 'dark', // or: light
-        'fav'            => 'logo.png',     // eg: fav.png
+        'fav'            => '',     // eg: fav.png
         'fa_v4_shims'    => true, // Add FontAwesome v4 shims prevent BC break
         'colors'         => [
-            'primary'    => '#6c80f3',
-            'secondary'  => '#172b4d'
+            'primary'    => '#787AF6',
+            'secondary'  => '#2b9cf2'
         ],
     ],
 
