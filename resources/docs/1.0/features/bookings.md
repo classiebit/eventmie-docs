@@ -1,6 +1,6 @@
 # Bookings
 
-To make a booking for an event is super simple. It's just a matter of two clicks. Hmmm.. one, two 🤞
+To make a booking for an event is super simple. It's just a matter of two clicks. Hmmm.. ☝️ ✌️
 
 <br>
 
