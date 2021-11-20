@@ -48,6 +48,17 @@ Just **install** it into a brand new Laravel application or an existing one and 
 + [Purchase](https://classiebit.com/eventmie-pro) - Available for purchase now - Flat 50% Off (limited time offer)
 
 
+
+### FullyLoaded Version
+
+**EventmiePro FullyLoaded** comes with **Commercial** license. Eventmie Pro FullyLoaded is Advanced version of Eventmie Pro Loaded with Power pack features.
+
++ [Live](https://eventmie-pro-fullyloaded.classiebit.com) - Live preview available now.
++ [Purchase](https://classiebit.com/eventmie-pro-fullyloaded) - Available for purchase now - Flat 50% Off (limited time offer)
+
+
+
+
 <a name="credits"></a>
 ## Credits
 
