@@ -27,8 +27,8 @@
                 </larecipe-button>
             @endif
 
-            <larecipe-button tag="a" href="https://github.com/classiebit/eventmie" target="__blank" type="black" class="mx-2 px-4">
-                <i class="fab fa-github"></i>
+            <larecipe-button tag="a" href="https://classiebit.com/eventmie-pro" target="__blank" type="success" class="mx-2 px-4">
+                <i class="fas fa-shopping-cart"></i> Purchase Pro $99 <span style="text-decoration: line-through;color: #f00;">$199</span>
             </larecipe-button>
 
             {{-- versions dropdown --}}
