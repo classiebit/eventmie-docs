@@ -4,7 +4,7 @@ Welcome to Eventmie Lite documentation.
 
 ---
 
-![Eventmie - Event planning reimagined with Laravel](https://eventmie-docs.classiebit.com/images/eventmie-docs-banner-1.jpg "Event planning reimagined with Laravel")
+![Eventmie - Event planning reimagined with Laravel](https://eventmie-docs.classiebit.com/images/v2/Eventmie-LiteEntryImage.webp "Event planning reimagined with Laravel")
 
 
 > {info.fa-youtube} Here's a complete video tutorial guide for getting started quickly **[Eventmie Academy](https://classiebit.com/academy/eventmie/getting-started)** ✌️

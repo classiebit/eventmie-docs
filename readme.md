@@ -18,7 +18,7 @@ Just **install** it into a brand new Laravel application or an existing one and 
 
 ---
 
-![Eventmie - Event planning reimagined with Laravel](https://eventmie-docs.classiebit.com/images/eventmie-docs-banner-1.jpg "Event planning reimagined with Laravel")
+![Eventmie - Event planning reimagined with Laravel](https://eventmie-docs.classiebit.com/images/v2/Eventmie-LiteEntryImage.webp "Event planning reimagined with Laravel")
 
 ---
 
