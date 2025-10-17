@@ -171,3 +171,21 @@ Demo accounts have got `demo data` to easily showcase all the features of Eventm
 #### Read the beautiful documentation here - [Eventmie Docs](https://eventmie-docs.classiebit.com)
 
 ---
+
+
+
+v3.0 update: update dependencies, remove unused files, and enhance event management features
+
+- Updated Laravel framework requirement in composer.json to support versions 10.0 and 11.0.
+- Removed obsolete files including mix-manifest.json, webpack.mix.js, and various JavaScript files related to event management.
+- Introduced new Vite configuration for asset management.
+- Added new migration files for translations, cache, jobs, and sessions.
+- Updated event seeder to reflect new thumbnail paths and added new settings in the database seeder.
+- Enhanced CSS styles for the theme and added new components for better UI/UX.
+- Refactored JavaScript imports to use Vue single-file components for improved maintainability.
+- Updated various Blade templates to utilize Vite for asset loading, improving performance.
+- add support for S3 storage to deploy on auto-scaling cloud servers
+
+
+- run npm Install
+npm run build
